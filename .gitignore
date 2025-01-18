@@ -6,3 +6,6 @@
 **/.vscode
 **/graph.json
 **/Temp
+/samples/.vs
+/samples/CycleFinder/.vs
+/samples/SampleBase/.vs
